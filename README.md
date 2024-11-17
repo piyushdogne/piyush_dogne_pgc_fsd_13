@@ -47,6 +47,6 @@ Ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/book-management-app.git
-   cd book-management-app
+   https://github.com/piyushdogne/piyush_dogne_pgc_fsd_13.git
+   cd piyush_dogne_pgc_fsd_13
 
